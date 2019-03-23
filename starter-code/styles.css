@@ -17,7 +17,7 @@ nav {
   margin: 0;
 }
 
-nav a {
+a {
   color: rgba(255,255,255,0.8);
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
@@ -153,6 +153,26 @@ nav a {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
 }
+
 .building-imggrp{
-  padding: 30px;
+  padding: 0px 75px;
+}
+
+#footer-text {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding: 5px 0 0 15px;
+  margin: 0;
+  height: 180px;
+  text-align: center;
+  
+  
+}
+
+#footer-text li{
+  display: inline-flex;
+  width: 200px;
+  height: 120px;
+  margin: 0 30px;
+  padding-right: 15px;
+  
 }
